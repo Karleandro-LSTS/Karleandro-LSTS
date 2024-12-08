@@ -1,8 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">Oieee, seja bem-vindo(a)! 👋</h1>
-<p align="center">
-  Me chamo **Karleandro** e sou um apaixonado por desenvolvimento de software! 🚀  
-</p>
+![Meu Banner](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header&text=Hi%2C%20I'm%20Karleandro&fontSize=40&fontColor=ffffff)
+
+
 
 ---
 
@@ -23,15 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
-</p>
-
----
-
-<!-- GitHub Estatísticas -->
-### 📊 **GitHub Stats**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
